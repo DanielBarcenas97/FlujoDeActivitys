@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FluxoActivitys</string>
+    <string name="tv_tittle">Iniciar sessão</string>
+    <string name="tv_email">Correio eletrônico</string>
+    <string name="et_email">Adicione o seu email</string>
+    <string name="tv_password">Senha</string>
+    <string name="et_password">Adicione sua senha</string>
+    <string name="btn_next">Próximo</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlujoDeActivitys</string>
+    <string name="tv_tittle">Iniciar sesión</string>
+    <string name="tv_email">Correo</string>
+    <string name="et_email">Ingresa tu correo</string>
+    <string name="tv_password">Contraseña</string>
+    <string name="et_password">Ingresa tu contraseña</string>
+    <string name="btn_next">Toast</string>
+    <string name="btn_next2">Siguiente</string>
+
+</resources>
